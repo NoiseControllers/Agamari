@@ -45,11 +45,6 @@ class Splash extends Component {
                   onClick={play}
                   id="play-box">play</button>
         </div>
-        <div id="github">
-          <a href="https://github.com/quirkycorgi/agamari">
-            <i className="fa fa-github fa-lg"></i>
-          </a>
-        </div>
       </div>
 
       );
