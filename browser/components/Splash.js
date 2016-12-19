@@ -20,15 +20,6 @@ class Splash extends Component {
 
     return (
       <div id="splash">
-       { !bugReportOpen &&
-              <div style={{position: 'absolute', zIndex: 1, right: '10px', bottom: '10px'}}>
-                <div className="card-content white-text">
-                    <button className="btn-floating"
-                          onClick={openBugReport}>
-                      <i className="material-icons">bug_report</i>
-                    </button>
-                </div>
-              </div>}
        <div id="title">SPLARIO</div>
         <div className="input-field">
           <input value={nickname}
