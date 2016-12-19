@@ -29,7 +29,7 @@ class Splash extends Component {
                     </button>
                 </div>
               </div>}
-       <div id="title">AGAMARI</div>
+       <div id="title">SPLARIO</div>
         <div className="input-field">
           <input value={nickname}
                  onChange={updateNickname}
