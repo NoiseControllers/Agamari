@@ -21,12 +21,6 @@ class ControlPanel extends Component {
       <div style={{position: 'absolute', zIndex: 1, right: '10px', top: '10px'}}>
       {isOpen ?
           <div className="card-content white-text">
-                { !bugReportOpen &&
-                    <button className="btn-floating"
-                          onClick={openBugReportForm}>
-                      <i className="material-icons">bug_report</i>
-                    </button>
-                }
                 <button className="btn-floating"
                         onClick={leave}>
                   <i className="material-icons">exit_to_app</i>
