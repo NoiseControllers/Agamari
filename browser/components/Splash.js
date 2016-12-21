@@ -38,7 +38,7 @@ class Splash extends Component {
         </div>
       </div>
       <div id="wrapper">
-         <a href="#" class="containerS twitter" style="margin-right: -20px;">
+         <a href="https://twitter.com/intent/tweet?text=ven%20y%20juega%20http://splario.es" target="_BLANK" class="containerS twitter" style="margin-right: -20px;">
           <svg  preserveAspectRatio="xMinYMin meet" viewBox="0 0 200 200" class="circle">  
             <circle cx="100" cy="100" r="50"/>
            </svg>
@@ -46,7 +46,7 @@ class Splash extends Component {
              <i class="fa fa-twitter"></i>
             </div>
             </a>
-             <a href="#" class="containerS facebook">
+             <a href="https://www.facebook.com/sharer/sharer.php?u=http://splario.es" target="_BLANK" class="containerS facebook">
                <svg  preserveAspectRatio="xMinYMin meet" viewBox="0 0 200 200" class="circle">  
                   <circle cx="100" cy="100" r="50"/>
                </svg>
