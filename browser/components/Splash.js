@@ -36,8 +36,6 @@ class Splash extends Component {
                   onClick={play}
                   id="play-box">play</button>
         </div>
-         <div id="wrapper">
-          </div>
       </div>
       );
   }
