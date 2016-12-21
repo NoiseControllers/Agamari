@@ -282,6 +282,9 @@ body, html {
 .containerS:hover {
   cursor: pointer;
 }
+.twitter{
+margin-right: -20px;
+}
 .twitter:hover .circle {
   fill: #ffffff;
   fill-opacity: 1;
