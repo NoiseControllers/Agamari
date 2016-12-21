@@ -37,7 +37,25 @@ class Splash extends Component {
                   id="play-box">play</button>
         </div>
       </div>
-
+      <div id="wrapper">
+         <a href="#" class="containerS twitter">
+          <svg  preserveAspectRatio="xMinYMin meet" viewBox="0 0 200 200" class="circle">  
+            <circle cx="100" cy="100" r="50"/>
+           </svg>
+           <div class="social">
+             <i class="fa fa-twitter"></i>
+            </div>
+            </a>
+             <a href="#" class="containerS facebook">
+               <svg  preserveAspectRatio="xMinYMin meet" viewBox="0 0 200 200" class="circle">  
+                  <circle cx="100" cy="100" r="50"/>
+               </svg>
+               <div class="social">
+                 <i class="fa fa-facebook"></i>
+               </div>
+             </a>
+           </div>
+         </div>
       );
   }
 }
