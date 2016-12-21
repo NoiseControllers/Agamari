@@ -38,7 +38,7 @@ class Splash extends Component {
         </div>
       </div>
       <div id="wrapper">
-         <a href="#" class="containerS twitter">
+         <a href="#" class="containerS twitter" style="margin-right: -20px;">
           <svg  preserveAspectRatio="xMinYMin meet" viewBox="0 0 200 200" class="circle">  
             <circle cx="100" cy="100" r="50"/>
            </svg>
