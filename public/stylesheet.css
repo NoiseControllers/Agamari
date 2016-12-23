@@ -444,3 +444,28 @@ margin-right: -20px;
     stroke-dasharray: 40;
   }
 }
+.tools{
+    font-size: .4em;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    text-align: left;
+}
+.tools a {
+    text-decoration: none;
+    border: 1px solid;
+    font-size: 13px;
+    float: left;
+    margin: 2px 2px 0px 2px;
+    color: white;
+    font-size: 12px;
+    padding: 5px 5px;
+    border-radius: 4px;
+	font: normal normal normal 11px/18px 'Helvetica Neue',Arial,sans-serif;
+}
+.tools a:hover{
+	background-color: #324cf4;
+}
+
+
